@@ -14,7 +14,7 @@ Mengatur siklus Kerja → Istirahat → Persiapan Kembali secara otomatis.
 Menampilkan status, waktu kerja, peringatan, dan tampilan kamera pada layar Paint.
 Menyimpan hasil gambar pengguna bila diinginkan.
 
-[Slide Presentasi TapSit](https://www.canva.com/design/DAG3yUKhn_I/yiX45X-ePNh0IJsWycyO4A/edit)
+[Slide Presentasi ](https://www.canva.com/design/DAG3yUKhn_I/yiX45X-ePNh0IJsWycyO4A/edit)
 </div>
 
 `PENGOLAHAN CITRA - PROGRAM STUDI TEKNIK ELEKTRONIKA - POLITEKNIK ELEKTRONIKA NEGERI SURABAYA`
