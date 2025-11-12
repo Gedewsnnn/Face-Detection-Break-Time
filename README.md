@@ -1,4 +1,4 @@
-# Sistem Pemilihan dan Pemantauan Ngantuk untuk Optimalisasi Industri pada Jam Kerja
+# Smart Work Monitoring System with Drowsiness Detection
 
 <div align="justify">
 
