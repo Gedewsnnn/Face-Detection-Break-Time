@@ -37,6 +37,9 @@ Program Smart Work Monitoring System with Drowsiness Detection merupakan sistem 
 
 # Teammates
 <div align="center">
+  <img src="./assets/anggota.jpg" alt="latar" width="600px"/>
+</div>
+<div align="center">
 
 
 | No. | Nama                | NRP           | GitHub                                 |
