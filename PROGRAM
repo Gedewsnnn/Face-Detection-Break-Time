@@ -1,7 +1,3 @@
-# Professional Work Monitoring System - Popup-as-subprocess fix
-# Popups are launched as independent subprocesses so they appear even when main window is minimized.
-# Requirements: opencv-python, mediapipe, Pillow, pygame, scipy
-
 import cv2
 import numpy as np
 import time
