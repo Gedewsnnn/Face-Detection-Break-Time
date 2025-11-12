@@ -3,6 +3,28 @@
 Dokumen ini hanya memuat saran/masukan dari dosen terkait tampilan awal, pengalaman pengguna (UX), dan persiapan demo. Tujuannya agar Anda bisa langsung mengimplementasikan perubahan UI dan menyertakan bukti di repositori.
 
 > Catatan: fokus dokumen ini adalah rekomendasi desain dan langkah teknis singkat untuk menerapkannya dalam kode aplikasi.
+> Catatan: fokus dokumen ini adalah rekomendasi desain dan langkah teknis singkat untuk menerapkannya dalam kode aplikasi.
+
+---
+
+## Tampilan Yang Perlu Diperbaiki
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/TampilanSetup.png" alt="Tampilan Setup" width="300px"/><br/>
+      <b>Tampilan Setup</b>
+    </td>
+    <td align="center">
+      <img src="./assets/TampilanDeveloper.jpg" alt="Tampilan Developer" width="300px"/><br/>
+      <b>Tampilan Developer</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
