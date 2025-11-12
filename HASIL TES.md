@@ -62,4 +62,4 @@ Sistem ini efektif digunakan sebagai alat bantu keselamatan kerja digital untuk 
 </div>
 
 # Video Demonstrasi
-[Tonton Demo Sistem di YouTube](https://youtu.be/jtG4zT5bGXA?si=vrAjOelVXwAc4a1R)
+[Tonton Demo Sistem di YouTube](https://youtu.be/qu17Bs4eRwI?si=hy5RQ7CWUZPNQdj4)
