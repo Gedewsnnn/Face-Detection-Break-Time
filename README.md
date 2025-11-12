@@ -39,19 +39,68 @@ Program Smart Work Monitoring System with Drowsiness Detection merupakan sistem 
 <div align="center">
   <img src="./assets/anggota.jpg" alt="latar" width="600px"/>
 </div>
-<div align="center">
-
-
-| No. | Nama                | NRP           | GitHub                                 |
-| :--:| :------------------:| :-------------:| :------------------------------------: |
-| 1   |  M. Adib Tantowi Jauhari   | 2122600001  | [GitHub](https://github.com/AdibTantowi) |
-| 2   | Rizka Sugiharto   | 2122600008    | [GitHub](https://github.com/Rizka-sgh) |
-| 3   | Muhammad Lukman Al Khakim        | 2122600010     | [GitHub](https://github.com/lukmanhakim100523-droid) |
-| 4   | I Gede Wahyu Satria Nugraha        | 2122600033      | [GitHub](https://github.com/Gedewsnnn) |
-| 5   | Bachtiar Arif Nurdiansyah     | 2122600058      | [GitHub](https://github.com/BachtiarArif) |
-
-
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th width="40px">No.</th>
+      <th width="250px">Nama</th>
+      <th width="120px">NRP</th>
+      <th width="100px">GitHub</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>1</td>
+      <td>M. Adib Tantowi Jauhari</td>
+      <td>2122600001</td>
+      <td>
+        <a href="https://github.com/AdibTantowi">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Rizka Sugiharto</td>
+      <td>2122600008</td>
+      <td>
+        <a href="https://github.com/Rizka-sgh">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Muhammad Lukman Al Khakim</td>
+      <td>2122600010</td>
+      <td>
+        <a href="https://github.com/lukmanhakim100523-droid">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>I Gede Wahyu Satria Nugraha</td>
+      <td>2122600033</td>
+      <td>
+        <a href="https://github.com/Gedewsnnn">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Bachtiar Arif Nurdiansyah</td>
+      <td>2122600058</td>
+      <td>
+        <a href="https://github.com/BachtiarArif">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Technologies Used
 🐍 Python 3.9+
