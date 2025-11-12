@@ -79,7 +79,7 @@ Popup merah + suara alarm aktif.
 
 ## Kesimpulan Pengujian
 <div align="justify">
-Program versi terbaru berhasil menggabungkan sistem pemantauan visual berbasis AI sederhana dengan manajemen waktu kerja yang otomatis dan adaptif.
+Sistem pemantauan visual berbasis AI sederhana dengan manajemen waktu kerja yang otomatis dan adaptif.
 Seluruh fitur bekerja dengan baik — mulai dari deteksi wajah, deteksi kantuk, transisi antar mode, hingga tampilan popup yang responsif.
 Program mampu berjalan stabil dalam jangka waktu lama tanpa crash, dan GUI tetap interaktif.
 Dengan adanya PaintApp, pengguna bisa tetap produktif di satu lingkungan kerja digital yang dipantau sistem cerdas.
